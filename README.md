@@ -1,2 +1,2 @@
 # template-test
-Create Template Test
+This is a test for template repository
